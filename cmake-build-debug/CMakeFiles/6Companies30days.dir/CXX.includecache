@@ -6,3 +6,29 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/sameer shaik/CLionProjects/6Companies30days/Anagrams.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+
+C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.cpp
+OverlappingRectangles.h
+C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.h
+
+C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.h
+iostream
+-
+
+C:/Users/sameer shaik/CLionProjects/6Companies30days/main.cpp
+iostream
+-
+Anagrams.cpp
+C:/Users/sameer shaik/CLionProjects/6Companies30days/Anagrams.cpp
+OverlappingRectangles.h
+C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.h
+
