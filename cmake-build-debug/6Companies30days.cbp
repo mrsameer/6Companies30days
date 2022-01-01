@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.cpp">
+			<Option target="6Companies30days"/>
+		</Unit>
+		<Unit filename="C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.h">
+			<Option target="6Companies30days"/>
+		</Unit>
 		<Unit filename="C:/Users/sameer shaik/CLionProjects/6Companies30days/main.cpp">
 			<Option target="6Companies30days"/>
 		</Unit>

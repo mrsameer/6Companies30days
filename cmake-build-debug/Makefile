@@ -128,6 +128,30 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\6Companies30days.dir\build.make CMakeFiles/6Companies30days.dir/build
 .PHONY : 6Companies30days/fast
 
+OverlappingRectangles.obj: OverlappingRectangles.cpp.obj
+.PHONY : OverlappingRectangles.obj
+
+# target to build an object file
+OverlappingRectangles.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6Companies30days.dir\build.make CMakeFiles/6Companies30days.dir/OverlappingRectangles.cpp.obj
+.PHONY : OverlappingRectangles.cpp.obj
+
+OverlappingRectangles.i: OverlappingRectangles.cpp.i
+.PHONY : OverlappingRectangles.i
+
+# target to preprocess a source file
+OverlappingRectangles.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6Companies30days.dir\build.make CMakeFiles/6Companies30days.dir/OverlappingRectangles.cpp.i
+.PHONY : OverlappingRectangles.cpp.i
+
+OverlappingRectangles.s: OverlappingRectangles.cpp.s
+.PHONY : OverlappingRectangles.s
+
+# target to generate assembly for a file
+OverlappingRectangles.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\6Companies30days.dir\build.make CMakeFiles/6Companies30days.dir/OverlappingRectangles.cpp.s
+.PHONY : OverlappingRectangles.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 6Companies30days
+	@echo ... OverlappingRectangles.obj
+	@echo ... OverlappingRectangles.i
+	@echo ... OverlappingRectangles.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

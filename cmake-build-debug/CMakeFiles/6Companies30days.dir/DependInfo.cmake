@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/sameer shaik/CLionProjects/6Companies30days/OverlappingRectangles.cpp" "C:/Users/sameer shaik/CLionProjects/6Companies30days/cmake-build-debug/CMakeFiles/6Companies30days.dir/OverlappingRectangles.cpp.obj"
   "C:/Users/sameer shaik/CLionProjects/6Companies30days/main.cpp" "C:/Users/sameer shaik/CLionProjects/6Companies30days/cmake-build-debug/CMakeFiles/6Companies30days.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
