@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\6Companies30days.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\6Companies30days.dir/objects.a @CMakeFiles\6Companies30days.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\6Companies30days.dir/objects.a -Wl,--no-whole-archive -o 6Companies30days.exe -Wl,--out-implib,lib6Companies30days.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\6Companies30days.dir\linklibs.rsp

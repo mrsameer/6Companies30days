@@ -1,0 +1,3 @@
+C:/Users/sameer shaik/CLionProjects/6Companies30days/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sameer shaik/CLionProjects/6Companies30days/cmake-build-debug/CMakeFiles/6Companies30days.dir
+C:/Users/sameer shaik/CLionProjects/6Companies30days/cmake-build-debug/CMakeFiles/rebuild_cache.dir
